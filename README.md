@@ -14,10 +14,12 @@ Before running the application, ensure that you have the following installed:
 
 To locally install and run the project, do the following:
 
-### 1. Python dependencies
+### 1. Install Python dependencies
+
+- Run the following command on your terminal while you're in the project directory:
 
 ```bash
-pip install -r requirements.txt
+pip install -r src/backend/requirements.txt
 ```
 
 ### 2. First-time Setup
@@ -31,8 +33,23 @@ npm install
 
 ### 3. Run the React Project
 
+- Run the following command on your terminal while you're in the project directory:
+
 ```bash
 npm start
 ```
 
 - This will start the React development server, and your app should now be accessible in your browser at (http://localhost:3000).
+
+## Acknowledgements
+
+* **Retail Store Inventory Forecasting Dataset:**
+    * Creator: Anirudh Singh Chauhan
+    * Source: Kaggle
+    * Link: [https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset)
+    * License: CC0: Public Domain
+
+* **Favicon - "Box":**
+    * Source: Flaticon
+    * Link: [https://www.flaticon.com/free-icon/box_685388](https://www.flaticon.com/free-icon/box_685388)
+    * License: Flaticon License (Free for personal and commercial use with attribution)
